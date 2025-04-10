@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warisalikhan786&label=Profile%20views&color=0e75b6&style=flat" alt="warisalikhan786" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2016/09/08/04/12/programmer-1653351_1280.png">
 
-- 🔭 I’m currently working on [Easy Shopping](https://github.com/SaqibMobeen/The_Holy_Quran_app)
+- 🔭 I’m currently working on [The Holy Quran](https://github.com/SaqibMobeen/The_Holy_Quran_app)
 
 - 🌱 I’m currently Working **Flutter, Python**
 
